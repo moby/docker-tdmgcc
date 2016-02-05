@@ -1,0 +1,8 @@
+Sourceforge is too unreliable and slow. Hosting the downloads on github for Docker Windows CI reliability.
+
+
+gcc.zip      - http://downloads.sourceforge.net/project/tdm-gcc/TDM-GCC%205%20series/5.1.0-tdm64-1/gcc-5.1.0-tdm64-1-core.zip 
+runtime.zip  - http://downloads.sourceforge.net/project/tdm-gcc/MinGW-w64%20runtime/GCC%205%20series/mingw64runtime-v4-git20150618-gcc5-tdm64-1.zip
+binutils.zip - http://downloads.sourceforge.net/project/tdm-gcc/GNU%20binutils/binutils-2.25-tdm64-1.zip
+
+
